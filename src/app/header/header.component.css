@@ -1,0 +1,12 @@
+.navstyle {
+  position: sticky;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #fafafb;
+  border-top: 3px solid #F48024;
+  transition: box-shadow cubic-bezier(.165, .84, .44, 1) .25s;
+  z-index: 5050;
+  box-shadow: 0 1px 0 rgba(12,13,14,0.1), 0 1px 6px rgba(59,64,69,0.1);
+  margin-bottom: 40px;
+}

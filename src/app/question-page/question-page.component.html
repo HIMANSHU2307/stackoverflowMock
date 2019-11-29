@@ -1,0 +1,64 @@
+<app-header></app-header>
+
+<div class="container">
+ <div class="row">
+   <div class="col-6">
+    <h1 style="font-weight:normal; font-size: 27px;">Top Questions</h1>
+   </div>
+   <div class="col-6">
+    <button class="buttonMain questionBtn" >Ask Question</button>
+   </div>
+ </div>
+ <hr>
+ <div *ngFor="let data of dataSource">
+  <div class="row" >
+   <div class="col-xl-1 col-lg-1 col-md-1 col-sm-4 col-xs-4 text-center" >
+     <span class="viewCount">{{data.score}}</span><br>
+     <span *ngIf="data.score !== 1" class="viewCount">votes</span>
+     <span *ngIf="data.score == 1" class="viewCount">vote</span>
+   </div>
+   <div class="col-xl-1 col-lg-1 col-md-1 col-sm-4 col-xs-4 text-center" >
+     <div class="answerContainer">
+       <span class="answerCount">{{data.answer_count}}</span><br>
+       <span *ngIf="data.answer_count !== 1" class="answerLabel">answers</span>
+       <span *ngIf="data.answer_count == 1" class="answerLabel">answer</span>
+     </div>
+   </div>
+   <div class="col-xl-1 col-lg-1 col-md-1 col-sm-4 col-xs-4 text-center" >
+     <span class="viewCount">{{data.view_count}}</span><br>
+     <span *ngIf="data.view_count !== 1" class="viewLabel">views</span>
+     <span *ngIf="data.view_count == 1" class="viewLabel">view</span>
+   </div>
+   <div class="col-xl-9 col-lg-9 col-md-9 col-sm-12 col-xs-12">
+     <span class="bountyCount">+{{data.bounty_amount}}</span>
+     <a class="titleQuestion" [attr.href]="data.link" target="_blank">{{data.title}}</a> <br>
+     <span class="tagPost" *ngFor="let tags of data.tags">{{tags}}</span>
+     <span class="ownerLink">
+       <span class="reputation" *ngIf="data.last_edit_date" >
+         <span *ngIf="compareDate(data.last_edit_date) == 0">
+          modified today
+         </span>
+         <span *ngIf="compareDate(data.last_edit_date) !== 0">
+          modified {{compareDate(data.last_edit_date)}} days ago
+         </span>
+        </span>
+        <span class="reputation" *ngIf="!data.last_edit_date">
+         <span *ngIf="compareDate(data.creation_date) == 0">
+          created today
+         </span>
+         <span *ngIf="compareDate(data.creation_date) !== 0">
+          created {{compareDate(data.creation_date)}} days ago
+         </span>
+        </span>
+        <a class="ownerName" (click)="toUserProfile(data.owner.user_id)">
+          {{data.owner.display_name}}
+        </a>
+        <span class="reputation">{{data.owner.reputation}}</span>
+     </span>
+   </div>
+  </div>
+  <hr>
+ </div>
+</div>
+
+<app-loader [loader]="isLoading"></app-loader>

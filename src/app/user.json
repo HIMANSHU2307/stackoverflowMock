@@ -1,0 +1,1052 @@
+{
+  "items": [
+      {
+          "badge_counts": {
+              "bronze": 10,
+              "silver": 1,
+              "gold": 0
+          },
+          "account_id": 13054200,
+          "is_employee": false,
+          "last_modified_date": 1573678389,
+          "last_access_date": 1574966637,
+          "reputation_change_year": 38,
+          "reputation_change_quarter": -100,
+          "reputation_change_month": -100,
+          "reputation_change_week": -100,
+          "reputation_change_day": 0,
+          "reputation": 353,
+          "creation_date": 1519987097,
+          "user_type": "registered",
+          "user_id": 9433569,
+          "location": "Ruhrgebiet, Deutschland",
+          "website_url": "",
+          "link": "https://stackoverflow.com/users/9433569/phil",
+          "profile_image": "https://www.gravatar.com/avatar/c8ed6b7cf9084145d1df1c32e0396913?s=128&d=identicon&r=PG&f=1",
+          "display_name": "Phil"
+      }
+  ],
+  "has_more": false,
+  "quota_max": 300,
+  "quota_remaining": 135
+}
+
+
+
+{
+  "items": [
+      {
+          "has_synonyms": true,
+          "user_id": 9433569,
+          "is_moderator_only": false,
+          "is_required": false,
+          "count": 19,
+          "name": "python"
+      },
+      {
+          "has_synonyms": false,
+          "user_id": 9433569,
+          "is_moderator_only": false,
+          "is_required": false,
+          "count": 16,
+          "name": "dymola"
+      },
+      {
+          "has_synonyms": false,
+          "user_id": 9433569,
+          "is_moderator_only": false,
+          "is_required": false,
+          "count": 15,
+          "name": "modelica"
+      },
+      {
+          "has_synonyms": false,
+          "user_id": 9433569,
+          "is_moderator_only": false,
+          "is_required": false,
+          "count": 6,
+          "name": "pandas"
+      },
+      {
+          "has_synonyms": true,
+          "user_id": 9433569,
+          "is_moderator_only": false,
+          "is_required": false,
+          "count": 3,
+          "name": "dataframe"
+      },
+      {
+          "has_synonyms": false,
+          "user_id": 9433569,
+          "is_moderator_only": false,
+          "is_required": false,
+          "count": 3,
+          "name": "image-processing"
+      },
+      {
+          "has_synonyms": true,
+          "user_id": 9433569,
+          "is_moderator_only": false,
+          "is_required": false,
+          "count": 3,
+          "name": "python-3.x"
+      },
+      {
+          "has_synonyms": true,
+          "user_id": 9433569,
+          "is_moderator_only": false,
+          "is_required": false,
+          "count": 2,
+          "name": "recurrent-neural-network"
+      },
+      {
+          "has_synonyms": true,
+          "user_id": 9433569,
+          "is_moderator_only": false,
+          "is_required": false,
+          "count": 2,
+          "name": "regex"
+      },
+      {
+          "has_synonyms": false,
+          "user_id": 9433569,
+          "is_moderator_only": false,
+          "is_required": false,
+          "count": 2,
+          "name": "scipy"
+      },
+      {
+          "has_synonyms": false,
+          "user_id": 9433569,
+          "is_moderator_only": false,
+          "is_required": false,
+          "count": 2,
+          "name": "simulation"
+      },
+      {
+          "has_synonyms": true,
+          "user_id": 9433569,
+          "is_moderator_only": false,
+          "is_required": false,
+          "count": 2,
+          "name": "tensorflow"
+      },
+      {
+          "has_synonyms": false,
+          "user_id": 9433569,
+          "is_moderator_only": false,
+          "is_required": false,
+          "count": 2,
+          "name": "text"
+      },
+      {
+          "has_synonyms": true,
+          "user_id": 9433569,
+          "is_moderator_only": false,
+          "is_required": false,
+          "count": 2,
+          "name": "installation"
+      },
+      {
+          "has_synonyms": true,
+          "user_id": 9433569,
+          "is_moderator_only": false,
+          "is_required": false,
+          "count": 2,
+          "name": "list"
+      },
+      {
+          "has_synonyms": false,
+          "user_id": 9433569,
+          "is_moderator_only": false,
+          "is_required": false,
+          "count": 2,
+          "name": "machine-learning"
+      },
+      {
+          "has_synonyms": false,
+          "user_id": 9433569,
+          "is_moderator_only": false,
+          "is_required": false,
+          "count": 2,
+          "name": "neat"
+      },
+      {
+          "has_synonyms": false,
+          "user_id": 9433569,
+          "is_moderator_only": false,
+          "is_required": false,
+          "count": 2,
+          "name": "numpy"
+      },
+      {
+          "has_synonyms": false,
+          "user_id": 9433569,
+          "is_moderator_only": false,
+          "is_required": false,
+          "count": 2,
+          "name": "opencv"
+      },
+      {
+          "has_synonyms": false,
+          "user_id": 9433569,
+          "is_moderator_only": false,
+          "is_required": false,
+          "count": 2,
+          "name": "openmodelica"
+      },
+      {
+          "has_synonyms": true,
+          "user_id": 9433569,
+          "is_moderator_only": false,
+          "is_required": false,
+          "count": 1,
+          "name": "optimization"
+      },
+      {
+          "has_synonyms": true,
+          "user_id": 9433569,
+          "is_moderator_only": false,
+          "is_required": false,
+          "count": 1,
+          "name": "matlab"
+      },
+      {
+          "has_synonyms": true,
+          "user_id": 9433569,
+          "is_moderator_only": false,
+          "is_required": false,
+          "count": 1,
+          "name": "iso-8859-1"
+      },
+      {
+          "has_synonyms": true,
+          "user_id": 9433569,
+          "is_moderator_only": false,
+          "is_required": false,
+          "count": 1,
+          "name": "jupyter-notebook"
+      },
+      {
+          "has_synonyms": false,
+          "user_id": 9433569,
+          "is_moderator_only": false,
+          "is_required": false,
+          "count": 1,
+          "name": "keras"
+      },
+      {
+          "has_synonyms": false,
+          "user_id": 9433569,
+          "is_moderator_only": false,
+          "is_required": false,
+          "count": 1,
+          "name": "hotkeys"
+      },
+      {
+          "has_synonyms": true,
+          "user_id": 9433569,
+          "is_moderator_only": false,
+          "is_required": false,
+          "count": 1,
+          "name": "autohotkey"
+      },
+      {
+          "has_synonyms": true,
+          "user_id": 9433569,
+          "is_moderator_only": false,
+          "is_required": false,
+          "count": 1,
+          "name": "c#"
+      },
+      {
+          "has_synonyms": true,
+          "user_id": 9433569,
+          "is_moderator_only": false,
+          "is_required": false,
+          "count": 1,
+          "name": "stream"
+      },
+      {
+          "has_synonyms": true,
+          "user_id": 9433569,
+          "is_moderator_only": false,
+          "is_required": false,
+          "count": 1,
+          "name": "string"
+      }
+  ],
+  "has_more": true,
+  "quota_max": 300,
+  "quota_remaining": 123
+}
+
+
+
+{
+  "items": [
+      {
+          "tags": [
+              "python",
+              "modelica",
+              "dymola"
+          ],
+          "owner": {
+              "reputation": 353,
+              "user_id": 9433569,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/c8ed6b7cf9084145d1df1c32e0396913?s=128&d=identicon&r=PG&f=1",
+              "display_name": "Phil",
+              "link": "https://stackoverflow.com/users/9433569/phil"
+          },
+          "is_answered": false,
+          "view_count": 129,
+          "bounty_amount": 100,
+          "bounty_closes_date": 1575381320,
+          "answer_count": 0,
+          "score": 1,
+          "last_activity_date": 1574959844,
+          "creation_date": 1549037671,
+          "last_edit_date": 1574959844,
+          "question_id": 54483215,
+          "link": "https://stackoverflow.com/questions/54483215/simulate-with-dymola-python-package-not-possible-dsres-mat-not-found",
+          "title": "Simulate with dymola python package not possible - dsres.mat not found"
+      },
+      {
+          "tags": [
+              "python",
+              "pandas",
+              "numpy"
+          ],
+          "owner": {
+              "reputation": 353,
+              "user_id": 9433569,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/c8ed6b7cf9084145d1df1c32e0396913?s=128&d=identicon&r=PG&f=1",
+              "display_name": "Phil",
+              "link": "https://stackoverflow.com/users/9433569/phil"
+          },
+          "is_answered": true,
+          "view_count": 28,
+          "closed_date": 1568107424,
+          "accepted_answer_id": 57867489,
+          "answer_count": 1,
+          "score": 0,
+          "last_activity_date": 1568106514,
+          "creation_date": 1568106028,
+          "question_id": 57867354,
+          "link": "https://stackoverflow.com/questions/57867354/faster-re-organisation-of-my-data-in-a-new-dataframe",
+          "closed_reason": "duplicate",
+          "title": "Faster re-organisation of my data in a new DataFrame()"
+      },
+      {
+          "tags": [
+              "python",
+              "pandas",
+              "dataframe"
+          ],
+          "owner": {
+              "reputation": 353,
+              "user_id": 9433569,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/c8ed6b7cf9084145d1df1c32e0396913?s=128&d=identicon&r=PG&f=1",
+              "display_name": "Phil",
+              "link": "https://stackoverflow.com/users/9433569/phil"
+          },
+          "is_answered": true,
+          "view_count": 41,
+          "accepted_answer_id": 57414585,
+          "answer_count": 1,
+          "score": 0,
+          "last_activity_date": 1565273389,
+          "creation_date": 1565272228,
+          "last_edit_date": 1565272741,
+          "question_id": 57414203,
+          "link": "https://stackoverflow.com/questions/57414203/opening-a-txt-for-pandas-with-no-delimiter-and-number-of-values-of-different-si",
+          "title": "Opening a .txt for pandas with no delimiter and number of values of different size"
+      },
+      {
+          "tags": [
+              "python",
+              "optimization",
+              "scipy"
+          ],
+          "owner": {
+              "reputation": 353,
+              "user_id": 9433569,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/c8ed6b7cf9084145d1df1c32e0396913?s=128&d=identicon&r=PG&f=1",
+              "display_name": "Phil",
+              "link": "https://stackoverflow.com/users/9433569/phil"
+          },
+          "is_answered": false,
+          "view_count": 47,
+          "answer_count": 0,
+          "score": 0,
+          "last_activity_date": 1562973441,
+          "creation_date": 1562935687,
+          "last_edit_date": 1562973441,
+          "question_id": 57007319,
+          "link": "https://stackoverflow.com/questions/57007319/optimization-of-matrix-with-each-sum-of-a-column-is-equal-to-1",
+          "title": "Optimization of matrix with each sum of a column is equal to 1"
+      },
+      {
+          "tags": [
+              "python",
+              "pandas",
+              "dataframe"
+          ],
+          "owner": {
+              "reputation": 353,
+              "user_id": 9433569,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/c8ed6b7cf9084145d1df1c32e0396913?s=128&d=identicon&r=PG&f=1",
+              "display_name": "Phil",
+              "link": "https://stackoverflow.com/users/9433569/phil"
+          },
+          "is_answered": false,
+          "view_count": 54,
+          "answer_count": 2,
+          "score": 1,
+          "last_activity_date": 1560415747,
+          "creation_date": 1557389617,
+          "last_edit_date": 1560415747,
+          "question_id": 56054994,
+          "link": "https://stackoverflow.com/questions/56054994/how-to-change-single-values-in-dataframe-when-condition-is-met",
+          "title": "How to change single values in dataframe when condition is met?"
+      },
+      {
+          "tags": [
+              "python",
+              "pandas",
+              "jupyter-notebook"
+          ],
+          "owner": {
+              "reputation": 353,
+              "user_id": 9433569,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/c8ed6b7cf9084145d1df1c32e0396913?s=128&d=identicon&r=PG&f=1",
+              "display_name": "Phil",
+              "link": "https://stackoverflow.com/users/9433569/phil"
+          },
+          "is_answered": true,
+          "view_count": 25,
+          "accepted_answer_id": 56342397,
+          "answer_count": 1,
+          "score": 1,
+          "last_activity_date": 1559047607,
+          "creation_date": 1559046533,
+          "last_edit_date": 1559047607,
+          "question_id": 56342314,
+          "link": "https://stackoverflow.com/questions/56342314/segmenting-a-df-based-on-condition-shows-nan-values-in-jupyter",
+          "title": "Segmenting a df based on condition shows nan values in jupyter"
+      },
+      {
+          "tags": [
+              "python",
+              "scipy",
+              "scipy-optimize-minimize"
+          ],
+          "owner": {
+              "reputation": 353,
+              "user_id": 9433569,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/c8ed6b7cf9084145d1df1c32e0396913?s=128&d=identicon&r=PG&f=1",
+              "display_name": "Phil",
+              "link": "https://stackoverflow.com/users/9433569/phil"
+          },
+          "is_answered": true,
+          "view_count": 161,
+          "accepted_answer_id": 56253222,
+          "answer_count": 1,
+          "score": 1,
+          "last_activity_date": 1558516274,
+          "creation_date": 1558512152,
+          "question_id": 56252003,
+          "link": "https://stackoverflow.com/questions/56252003/scipy-optimize-minimize-does-not-stop-at-maxiter-or-callback",
+          "title": "scipy.optimize.minimize does not stop at maxiter or callback"
+      },
+      {
+          "tags": [
+              "python",
+              "tensorflow",
+              "installation"
+          ],
+          "owner": {
+              "reputation": 353,
+              "user_id": 9433569,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/c8ed6b7cf9084145d1df1c32e0396913?s=128&d=identicon&r=PG&f=1",
+              "display_name": "Phil",
+              "link": "https://stackoverflow.com/users/9433569/phil"
+          },
+          "is_answered": true,
+          "view_count": 102,
+          "accepted_answer_id": 55742886,
+          "answer_count": 1,
+          "score": 0,
+          "last_activity_date": 1555579130,
+          "creation_date": 1553849074,
+          "last_edit_date": 1553849662,
+          "question_id": 55413488,
+          "link": "https://stackoverflow.com/questions/55413488/installing-tensorflow-gpu-on-a-laptop-with-two-graphic-cards",
+          "title": "Installing tensorflow-gpu on a Laptop with two graphic cards"
+      },
+      {
+          "tags": [
+              "modelica",
+              "dymola"
+          ],
+          "owner": {
+              "reputation": 353,
+              "user_id": 9433569,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/c8ed6b7cf9084145d1df1c32e0396913?s=128&d=identicon&r=PG&f=1",
+              "display_name": "Phil",
+              "link": "https://stackoverflow.com/users/9433569/phil"
+          },
+          "is_answered": true,
+          "view_count": 88,
+          "accepted_answer_id": 55491999,
+          "answer_count": 1,
+          "score": 2,
+          "last_activity_date": 1554284582,
+          "creation_date": 1554197551,
+          "question_id": 55471375,
+          "link": "https://stackoverflow.com/questions/55471375/getting-a-memory-allocation-error-in-dymola",
+          "title": "Getting a Memory allocation error in Dymola"
+      },
+      {
+          "tags": [
+              "python",
+              "list",
+              "numpy",
+              "keras"
+          ],
+          "owner": {
+              "reputation": 353,
+              "user_id": 9433569,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/c8ed6b7cf9084145d1df1c32e0396913?s=128&d=identicon&r=PG&f=1",
+              "display_name": "Phil",
+              "link": "https://stackoverflow.com/users/9433569/phil"
+          },
+          "is_answered": false,
+          "view_count": 100,
+          "answer_count": 1,
+          "score": 1,
+          "last_activity_date": 1553380023,
+          "creation_date": 1553366468,
+          "last_edit_date": 1553372539,
+          "question_id": 55317175,
+          "link": "https://stackoverflow.com/questions/55317175/load-and-convert-a-lot-of-images-to-array-of-size-n-224-224-3-from-path",
+          "title": "Load and convert a lot of images to array of size (n,224,224,3) from path"
+      },
+      {
+          "tags": [
+              "python",
+              "opencv",
+              "image-processing"
+          ],
+          "owner": {
+              "reputation": 353,
+              "user_id": 9433569,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/c8ed6b7cf9084145d1df1c32e0396913?s=128&d=identicon&r=PG&f=1",
+              "display_name": "Phil",
+              "link": "https://stackoverflow.com/users/9433569/phil"
+          },
+          "is_answered": true,
+          "view_count": 42,
+          "accepted_answer_id": 55082489,
+          "answer_count": 1,
+          "score": 0,
+          "last_activity_date": 1552171967,
+          "creation_date": 1552166902,
+          "last_edit_date": 1552171967,
+          "question_id": 55082133,
+          "link": "https://stackoverflow.com/questions/55082133/resize-an-image-and-only-show-100x100-pixels-around-center",
+          "title": "Resize an image and only show 100x100 pixels around center"
+      },
+      {
+          "tags": [
+              "python",
+              "machine-learning",
+              "recurrent-neural-network",
+              "neat"
+          ],
+          "owner": {
+              "reputation": 353,
+              "user_id": 9433569,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/c8ed6b7cf9084145d1df1c32e0396913?s=128&d=identicon&r=PG&f=1",
+              "display_name": "Phil",
+              "link": "https://stackoverflow.com/users/9433569/phil"
+          },
+          "is_answered": false,
+          "view_count": 58,
+          "answer_count": 1,
+          "score": 1,
+          "last_activity_date": 1549757499,
+          "creation_date": 1549749145,
+          "last_edit_date": 1549755823,
+          "question_id": 54611141,
+          "link": "https://stackoverflow.com/questions/54611141/neat-multiple-genomes-at-once-in-one-instance-of-pygame",
+          "title": "NEAT multiple genomes at once in one instance of pygame"
+      },
+      {
+          "tags": [
+              "modelica",
+              "dymola"
+          ],
+          "owner": {
+              "reputation": 353,
+              "user_id": 9433569,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/c8ed6b7cf9084145d1df1c32e0396913?s=128&d=identicon&r=PG&f=1",
+              "display_name": "Phil",
+              "link": "https://stackoverflow.com/users/9433569/phil"
+          },
+          "is_answered": true,
+          "view_count": 116,
+          "accepted_answer_id": 54445918,
+          "answer_count": 1,
+          "score": 1,
+          "last_activity_date": 1548868121,
+          "creation_date": 1527146718,
+          "last_edit_date": 1527161598,
+          "question_id": 50503420,
+          "link": "https://stackoverflow.com/questions/50503420/spatialdistribution-operator-and-non-scalar-gradients-in-modelica",
+          "title": "spatialDistribution()-Operator and non-scalar gradients in Modelica"
+      },
+      {
+          "tags": [
+              "python",
+              "pandas",
+              "dataframe"
+          ],
+          "owner": {
+              "reputation": 353,
+              "user_id": 9433569,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/c8ed6b7cf9084145d1df1c32e0396913?s=128&d=identicon&r=PG&f=1",
+              "display_name": "Phil",
+              "link": "https://stackoverflow.com/users/9433569/phil"
+          },
+          "is_answered": true,
+          "view_count": 25,
+          "accepted_answer_id": 54443959,
+          "answer_count": 1,
+          "score": 0,
+          "last_activity_date": 1548864195,
+          "creation_date": 1548852326,
+          "last_edit_date": 1548864195,
+          "question_id": 54440967,
+          "link": "https://stackoverflow.com/questions/54440967/matching-names-between-two-columns-of-two-dataframes-and-adding-new-columns-to-o",
+          "title": "Matching names between two columns of two dataframes and adding new columns to one - long computing time"
+      },
+      {
+          "tags": [
+              "python",
+              "pandas",
+              "seaborn"
+          ],
+          "owner": {
+              "reputation": 353,
+              "user_id": 9433569,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/c8ed6b7cf9084145d1df1c32e0396913?s=128&d=identicon&r=PG&f=1",
+              "display_name": "Phil",
+              "link": "https://stackoverflow.com/users/9433569/phil"
+          },
+          "is_answered": true,
+          "view_count": 527,
+          "answer_count": 1,
+          "score": 0,
+          "last_activity_date": 1545303883,
+          "creation_date": 1545220773,
+          "last_edit_date": 1545303883,
+          "question_id": 53850777,
+          "link": "https://stackoverflow.com/questions/53850777/wrong-monthly-lineplot-using-seaborn-pandas-and-datetime",
+          "title": "Wrong monthly lineplot using seaborn, pandas and datetime"
+      },
+      {
+          "tags": [
+              "modelica",
+              "dymola"
+          ],
+          "owner": {
+              "reputation": 353,
+              "user_id": 9433569,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/c8ed6b7cf9084145d1df1c32e0396913?s=128&d=identicon&r=PG&f=1",
+              "display_name": "Phil",
+              "link": "https://stackoverflow.com/users/9433569/phil"
+          },
+          "is_answered": true,
+          "view_count": 153,
+          "answer_count": 2,
+          "score": 2,
+          "last_activity_date": 1542197428,
+          "creation_date": 1542122503,
+          "last_edit_date": 1542187144,
+          "question_id": 53284169,
+          "link": "https://stackoverflow.com/questions/53284169/how-to-pass-multiple-variables-from-one-model-to-another-model-inner-outer",
+          "title": "How to pass multiple variables from one model to another model (inner/outer)"
+      },
+      {
+          "tags": [
+              "python",
+              "regex",
+              "python-3.x"
+          ],
+          "owner": {
+              "reputation": 353,
+              "user_id": 9433569,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/c8ed6b7cf9084145d1df1c32e0396913?s=128&d=identicon&r=PG&f=1",
+              "display_name": "Phil",
+              "link": "https://stackoverflow.com/users/9433569/phil"
+          },
+          "is_answered": true,
+          "view_count": 86,
+          "accepted_answer_id": 53141030,
+          "answer_count": 4,
+          "score": 0,
+          "last_activity_date": 1541432379,
+          "creation_date": 1541334829,
+          "last_edit_date": 1541414109,
+          "question_id": 53140868,
+          "link": "https://stackoverflow.com/questions/53140868/changing-a-string-by-finding-a-specific-string-and-replacing-a-following-string",
+          "title": "Changing a string by finding a specific string and replacing a following string"
+      },
+      {
+          "tags": [
+              "python",
+              "regex",
+              "list"
+          ],
+          "owner": {
+              "reputation": 353,
+              "user_id": 9433569,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/c8ed6b7cf9084145d1df1c32e0396913?s=128&d=identicon&r=PG&f=1",
+              "display_name": "Phil",
+              "link": "https://stackoverflow.com/users/9433569/phil"
+          },
+          "is_answered": true,
+          "view_count": 72,
+          "accepted_answer_id": 53121424,
+          "answer_count": 2,
+          "score": 1,
+          "last_activity_date": 1541173676,
+          "creation_date": 1541171884,
+          "question_id": 53121303,
+          "link": "https://stackoverflow.com/questions/53121303/removing-empty-list-elements",
+          "title": "Removing Empty List elements"
+      },
+      {
+          "tags": [
+              "python",
+              "python-3.x",
+              "text",
+              "modelica"
+          ],
+          "owner": {
+              "reputation": 353,
+              "user_id": 9433569,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/c8ed6b7cf9084145d1df1c32e0396913?s=128&d=identicon&r=PG&f=1",
+              "display_name": "Phil",
+              "link": "https://stackoverflow.com/users/9433569/phil"
+          },
+          "is_answered": true,
+          "view_count": 54,
+          "closed_date": 1540897024,
+          "accepted_answer_id": 53062577,
+          "answer_count": 1,
+          "score": 1,
+          "last_activity_date": 1540896623,
+          "creation_date": 1540895253,
+          "last_edit_date": 1540895711,
+          "question_id": 53062227,
+          "link": "https://stackoverflow.com/questions/53062227/open-a-txt-file-that-has-been-declared-with-a-mo-extention",
+          "closed_reason": "duplicate",
+          "title": "Open a .txt file that has been declared with a .mo extention"
+      },
+      {
+          "tags": [
+              "modelica",
+              "dymola"
+          ],
+          "owner": {
+              "reputation": 353,
+              "user_id": 9433569,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/c8ed6b7cf9084145d1df1c32e0396913?s=128&d=identicon&r=PG&f=1",
+              "display_name": "Phil",
+              "link": "https://stackoverflow.com/users/9433569/phil"
+          },
+          "is_answered": true,
+          "view_count": 43,
+          "accepted_answer_id": 53049513,
+          "answer_count": 1,
+          "score": 1,
+          "last_activity_date": 1540887783,
+          "creation_date": 1540826951,
+          "question_id": 53048813,
+          "link": "https://stackoverflow.com/questions/53048813/display-a-parameter-on-icon-level-from-calculation-prior-to-simulation",
+          "title": "Display a parameter on icon level from calculation prior to simulation"
+      },
+      {
+          "tags": [
+              "python-3.x",
+              "text",
+              "iso-8859-1"
+          ],
+          "owner": {
+              "reputation": 353,
+              "user_id": 9433569,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/c8ed6b7cf9084145d1df1c32e0396913?s=128&d=identicon&r=PG&f=1",
+              "display_name": "Phil",
+              "link": "https://stackoverflow.com/users/9433569/phil"
+          },
+          "is_answered": true,
+          "view_count": 374,
+          "accepted_answer_id": 53046644,
+          "answer_count": 1,
+          "score": 1,
+          "last_activity_date": 1540820120,
+          "creation_date": 1540819417,
+          "last_edit_date": 1540820120,
+          "question_id": 53046443,
+          "link": "https://stackoverflow.com/questions/53046443/read-txt-with-emoji-characters-in-python",
+          "title": "Read .txt with emoji characters in python"
+      },
+      {
+          "tags": [
+              "string",
+              "stream",
+              "modelica",
+              "dymola"
+          ],
+          "owner": {
+              "reputation": 353,
+              "user_id": 9433569,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/c8ed6b7cf9084145d1df1c32e0396913?s=128&d=identicon&r=PG&f=1",
+              "display_name": "Phil",
+              "link": "https://stackoverflow.com/users/9433569/phil"
+          },
+          "is_answered": true,
+          "view_count": 208,
+          "accepted_answer_id": 52612996,
+          "answer_count": 2,
+          "score": 1,
+          "last_activity_date": 1538717605,
+          "creation_date": 1538494333,
+          "question_id": 52611665,
+          "link": "https://stackoverflow.com/questions/52611665/writing-specific-variable-to-txt-or-mat-with-dymola",
+          "title": "Writing specific variable to .txt or .mat with Dymola"
+      },
+      {
+          "tags": [
+              "dymola"
+          ],
+          "owner": {
+              "reputation": 353,
+              "user_id": 9433569,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/c8ed6b7cf9084145d1df1c32e0396913?s=128&d=identicon&r=PG&f=1",
+              "display_name": "Phil",
+              "link": "https://stackoverflow.com/users/9433569/phil"
+          },
+          "is_answered": true,
+          "view_count": 121,
+          "accepted_answer_id": 51842408,
+          "answer_count": 2,
+          "score": 3,
+          "last_activity_date": 1534252534,
+          "creation_date": 1534234434,
+          "question_id": 51836734,
+          "link": "https://stackoverflow.com/questions/51836734/getting-high-quality-pictures-from-dymola-models",
+          "title": "Getting high quality pictures from dymola models"
+      },
+      {
+          "tags": [
+              "modelica",
+              "dymola",
+              "openmodelica"
+          ],
+          "owner": {
+              "reputation": 353,
+              "user_id": 9433569,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/c8ed6b7cf9084145d1df1c32e0396913?s=128&d=identicon&r=PG&f=1",
+              "display_name": "Phil",
+              "link": "https://stackoverflow.com/users/9433569/phil"
+          },
+          "is_answered": true,
+          "view_count": 161,
+          "answer_count": 1,
+          "score": 1,
+          "last_activity_date": 1532769426,
+          "creation_date": 1532504152,
+          "question_id": 51513318,
+          "link": "https://stackoverflow.com/questions/51513318/equations-with-conditional-connectors",
+          "title": "Equations with conditional connectors"
+      },
+      {
+          "tags": [
+              "matlab"
+          ],
+          "owner": {
+              "reputation": 353,
+              "user_id": 9433569,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/c8ed6b7cf9084145d1df1c32e0396913?s=128&d=identicon&r=PG&f=1",
+              "display_name": "Phil",
+              "link": "https://stackoverflow.com/users/9433569/phil"
+          },
+          "is_answered": true,
+          "view_count": 90,
+          "accepted_answer_id": 51279874,
+          "answer_count": 2,
+          "score": 0,
+          "last_activity_date": 1531295052,
+          "creation_date": 1531235462,
+          "last_edit_date": 1531294259,
+          "question_id": 51268741,
+          "link": "https://stackoverflow.com/questions/51268741/resampling-multiple-data-columns-from-minutes-to-hours-in-matlab",
+          "title": "Resampling multiple data columns from minutes to hours in matlab"
+      },
+      {
+          "tags": [
+              "modelica",
+              "dymola",
+              "openmodelica"
+          ],
+          "owner": {
+              "reputation": 353,
+              "user_id": 9433569,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/c8ed6b7cf9084145d1df1c32e0396913?s=128&d=identicon&r=PG&f=1",
+              "display_name": "Phil",
+              "link": "https://stackoverflow.com/users/9433569/phil"
+          },
+          "is_answered": true,
+          "view_count": 71,
+          "accepted_answer_id": 51123225,
+          "answer_count": 1,
+          "score": 1,
+          "last_activity_date": 1530448462,
+          "creation_date": 1530444158,
+          "question_id": 51122828,
+          "link": "https://stackoverflow.com/questions/51122828/acessing-a-row-in-a-matrix-with-comparing-the-values-of-the-first-column",
+          "title": "Acessing a row in a matrix with comparing the values of the first column"
+      },
+      {
+          "tags": [
+              "simulation",
+              "modelica",
+              "dymola"
+          ],
+          "owner": {
+              "reputation": 353,
+              "user_id": 9433569,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/c8ed6b7cf9084145d1df1c32e0396913?s=128&d=identicon&r=PG&f=1",
+              "display_name": "Phil",
+              "link": "https://stackoverflow.com/users/9433569/phil"
+          },
+          "is_answered": false,
+          "view_count": 92,
+          "answer_count": 0,
+          "score": 0,
+          "last_activity_date": 1529982358,
+          "creation_date": 1529925271,
+          "last_edit_date": 1529982358,
+          "question_id": 51022176,
+          "link": "https://stackoverflow.com/questions/51022176/slow-computation-with-mass-flow-calculation-out-of-heat-demand",
+          "title": "Slow computation with mass flow calculation out of heat demand"
+      },
+      {
+          "tags": [
+              "dymola"
+          ],
+          "owner": {
+              "reputation": 353,
+              "user_id": 9433569,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/c8ed6b7cf9084145d1df1c32e0396913?s=128&d=identicon&r=PG&f=1",
+              "display_name": "Phil",
+              "link": "https://stackoverflow.com/users/9433569/phil"
+          },
+          "is_answered": false,
+          "view_count": 69,
+          "answer_count": 1,
+          "score": 0,
+          "last_activity_date": 1529559072,
+          "creation_date": 1529395051,
+          "last_edit_date": 1529559072,
+          "question_id": 50923343,
+          "link": "https://stackoverflow.com/questions/50923343/no-more-delay-memory-available-what-does-this-mean",
+          "title": "No more delay memory available - What does this mean?"
+      },
+      {
+          "tags": [
+              "modelica",
+              "dymola"
+          ],
+          "owner": {
+              "reputation": 353,
+              "user_id": 9433569,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/c8ed6b7cf9084145d1df1c32e0396913?s=128&d=identicon&r=PG&f=1",
+              "display_name": "Phil",
+              "link": "https://stackoverflow.com/users/9433569/phil"
+          },
+          "is_answered": true,
+          "view_count": 169,
+          "accepted_answer_id": 50581605,
+          "answer_count": 1,
+          "score": 1,
+          "last_activity_date": 1527588282,
+          "creation_date": 1527443749,
+          "last_edit_date": 1527518578,
+          "question_id": 50554967,
+          "link": "https://stackoverflow.com/questions/50554967/singular-inconsistent-scalar-system-when-connecting-a-pressure-boundary",
+          "title": "Singular inconsistent scalar system when connecting a pressure boundary"
+      },
+      {
+          "tags": [
+              "dymola"
+          ],
+          "owner": {
+              "reputation": 353,
+              "user_id": 9433569,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/c8ed6b7cf9084145d1df1c32e0396913?s=128&d=identicon&r=PG&f=1",
+              "display_name": "Phil",
+              "link": "https://stackoverflow.com/users/9433569/phil"
+          },
+          "is_answered": true,
+          "view_count": 55,
+          "accepted_answer_id": 50463180,
+          "answer_count": 1,
+          "score": 1,
+          "last_activity_date": 1526990079,
+          "creation_date": 1526976366,
+          "last_edit_date": 1526990079,
+          "question_id": 50462724,
+          "link": "https://stackoverflow.com/questions/50462724/cant-find-location-of-dsmodel-mof-dymola",
+          "title": "Can&#39;t find location of dsmodel.mof - Dymola"
+      }
+  ],
+  "has_more": true,
+  "quota_max": 300,
+  "quota_remaining": 120
+}
+
+
