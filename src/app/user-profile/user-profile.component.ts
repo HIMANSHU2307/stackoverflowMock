@@ -24,11 +24,10 @@ export class UserProfileComponent implements OnInit {
   ngOnInit() {
     this.userId = this.route.snapshot.paramMap.get('id');
     if (sessionStorage.getItem('authStatus') !== 'grant') {
-      // this.router.navigate(['login']);
+      this.router.navigate(['login']);
     } else {
       this.getData();
     }
-    this.getData();
   }
 
   getData() {
@@ -39,9 +38,7 @@ export class UserProfileComponent implements OnInit {
       this.userService.GetUserQuestions(this.userId)
     ).subscribe(
       data => {
-        // console.log(JSON.parse(JSON.stringify(data)));
         this.userDetails = JSON.parse(JSON.stringify(data))[0].items[0];
-        // console.log(this.userDetails);
         this.userTags = JSON.parse(JSON.stringify(data))[1].items;
         this.userQuestions = JSON.parse(JSON.stringify(data))[2].items;
         this.isLoading = false;

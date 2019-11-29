@@ -18,11 +18,10 @@ export class QuestionPageComponent implements OnInit {
 
   ngOnInit() {
     if (sessionStorage.getItem('authStatus') !== 'grant') {
-      // this.router.navigate(['login']);
+      this.router.navigate(['login']);
     } else {
       this.getData();
     }
-    this.getData();
   }
 
   getData () {
