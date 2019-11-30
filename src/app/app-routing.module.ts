@@ -9,6 +9,7 @@ const routes: Routes = [
   { path: 'login', component: LoginComponent },
   { path: 'questionspage', component: QuestionPageComponent },
   { path: 'userprofile/:id', component: UserProfileComponent },
+  { path: '', component: QuestionPageComponent, pathMatch: 'full' },
 
 ];
 
